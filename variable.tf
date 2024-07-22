@@ -1,3 +1,3 @@
 variable "vpc_cidr" {
-  default = "192.168.10.0/24"
+  default = "192.168.20.0/24"
 }
